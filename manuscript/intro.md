@@ -1,4 +1,4 @@
-# Introduction
+# Intro
 
 HTML is the backbone of the Web. Or one of the backbones of the Web. Or the backbone, again, for us as web developers, because we could build a website without JavaScript, even without CSS, but without HTML, _any_ HTML, no, we couldn’t.
 

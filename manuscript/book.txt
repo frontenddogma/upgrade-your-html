@@ -1,5 +1,5 @@
 prologue.md
-introduction.md
+intro.md
 1.md
 2.md
 3.md
@@ -10,4 +10,5 @@ introduction.md
 8.md
 9.md
 10.md
+outro.md
 epilogue.md
