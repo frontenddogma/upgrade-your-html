@@ -21,3 +21,6 @@ We could go on, adding data and anecdotes to how HTML is both important and yet 
 Thanks for obtaining your own copy of this little book, and now welcome to this first edition of _Upgrade Your HTML_.
 
 —Jens Oliver Meiert (short: Jens).
+
+PS.
+And, oh, the book really is about [HTML](https://html.spec.whatwg.org/multipage/). Not SGML, not XHTML, not XML, just HTML.
