@@ -4,7 +4,7 @@ HTML is the backbone of the Web. Or one of the backbones of the Web. Or the back
 
 As HTML is so important and yet also so easy, everyone writes HTML, and everyone says they can write HTML. And with that they don’t just mean they are able to write HTML, but that they write _good_ HTML, where “good” means “high quality.”
 
-That would be great news, because writing good HTML is actually [more important](https://meiert.com/en/blog/rules-for-html/) than writing good CSS or good JavaScript. At least from the view of [the first paradigm of web development](https://meiert.com/en/blog/two-paradigms/), which sees a benefit in separating concerns, and in managing a large code base of many HTML templates and files with very few style sheets and scripts.
+That would be great news, because writing good HTML is actually [more important](https://meiert.com/en/blog/rules-for-html/) than writing good CSS or good JavaScript. At least from the view of [the first paradigm of web development](https://meiert.com/en/blog/two-paradigms/), which sees a benefit in separating concerns, and assumes, as the end goal, a large code base of many HTML templates and files with very few style sheets and scripts.
 
 Alas, then, the problem is not that there’s also a new paradigm, in which components feature HTML and CSS and JavaScript (or ECMAScript, if we want to adjust terminology), but that _not_ everyone writes good HTML. And that has many reasons, of course.
 
@@ -26,4 +26,4 @@ PS.
 And, oh, the book really is about [HTML](https://html.spec.whatwg.org/multipage/). Not SGML, not XHTML, not XML, just HTML.
 
 PPS.
-Eh, and it’s “opinionated,” too.
+And, of course, it’s “opinionated.”
