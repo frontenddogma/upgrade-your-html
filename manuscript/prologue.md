@@ -1,1 +1,1 @@
-With special thanks to @@.
+With special thanks to Kevin Khaw and Gabriele Kretzschmar for reviewing and giving feedback to this book.
