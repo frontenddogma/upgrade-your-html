@@ -1,1 +1,1 @@
-With special thanks to Kevin Khaw, Gabriele Kretzschmar, and Geetika Geetika for reviewing and giving feedback to this book.
+With special thanks to Kevin Khaw, Gabriele Kretzschmar, and Geetika for reviewing and giving feedback to this book.
