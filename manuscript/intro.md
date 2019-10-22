@@ -26,4 +26,4 @@ PS.
 And, oh, the book really is about [HTML](https://html.spec.whatwg.org/multipage/). Not SGML, not XHTML, not XML, just HTML.
 
 PPS.
-And, of course, it’s “opinionated.”
+And, of course, it’s opinionated.
