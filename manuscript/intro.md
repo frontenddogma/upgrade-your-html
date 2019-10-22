@@ -18,7 +18,7 @@ Another one? In a few years, HTML will celebrate its 30th birthday. Very cool! S
 
 We could go on, adding data and anecdotes to how HTML is both important and yet not well-understood, nor well-used. But the route I want to take now is to take 10 examples, from the wild, to show simple improvements to respective HTML code. That code, then, has been anonymized, for this book is not about pointing fingers, but to simply look at HTML and see what else we can do, how we can improve it, how we can: upgrade it.
 
-Thanks for obtaining your own copy of this little book, and now welcome to this first edition of _Upgrade Your HTML_.
+Thanks for obtaining your own copy of this little book, and now welcome to this first and light and playful edition of _Upgrade Your HTML_.
 
 —Jens Oliver Meiert (short: Jens).
 
