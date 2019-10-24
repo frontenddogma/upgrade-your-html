@@ -12,18 +12,18 @@ The most important one is that HTML isn’t actually that easy, because it reall
 
 HTML&nbsp;5.2, which is the latest HTML recommendation over at the W3C (as opposed to the WHATWG, where HTML really is written—usually, look at [their spec](https://html.spec.whatwg.org/multipage/)), contains [111 elements](https://meiert.com/en/indices/html-elements/) alone. _111._ How many do you know? How many does the average web developer know? What does that mean for their HTML if they don’t even know all the elements?
 
-Want another example? When people talk about HTML elements like, for example, `<html>` or `<a>` or `<p>`, then [most of the time they do mean _elements_](https://www.456bereastreet.com/archive/200508/html_tags_vs_elements_vs_attributes/). But what they then _talk about_ is “tags.” Google, as of September, 2019, finds 25 million occurrences of [“html tags”](https://www.google.com/search?q="html+tags") alone. HTML elements, what people mean, but don’t call by name? [2.4 million hits](https://www.google.com/search?q="html+elements"), a tenth. So this one begs the question how well developers understand HTML if they’re not sure about the difference between elements and tags.
+Want another example? When people talk about HTML elements like, for example, `<html>` or `<a>` or `<p>`, then [most of the time they do mean _elements_](https://www.456bereastreet.com/archive/200508/html_tags_vs_elements_vs_attributes/). But what they then _talk about_ is “tags.” Google, as of September, 2019, finds 25 million occurrences of [“html tags”](https://www.google.com/search?q="html+tags") alone. HTML elements, what people mean, but don’t call by name? [2.4 million hits](https://www.google.com/search?q="html+elements"), a tenth. This begs the question how well developers understand HTML if they’re not sure about the difference between elements and tags.
 
-Another one? In a few years, HTML will celebrate its 30th birthday. Very cool! So we will certainly have maxed out all options to [reduce HTML payload](https://meiert.com/en/blog/html-performance/), to improve performance? Well, no. One of the major options at our disposal to reduce HTML payload is not to write HTML that can be left out without a document turning invalid ([please validate](https://meiert.com/en/blog/about-validation/), by the way). But almost no one uses that option. Web developers have concerns, yes, but the point is that the method is so under-utilized, we cannot speak of HTML mastery here, either.
+Another one? In a few years, HTML will celebrate its 30th birthday. Very cool! So we will certainly have maxed out all options to [reduce HTML payload](https://meiert.com/en/blog/html-performance/), to improve performance? Well, no. One of the major options at our disposal to reduce HTML payload is not to write HTML that can be left out without a document turning invalid ([please validate](https://meiert.com/en/blog/about-validation/), by the way). Unfortunately, almost no one uses that option. Web developers have concerns, yes, but the point is that the method is so under-utilized, we cannot speak of HTML mastery here, either.
 
-We could go on, adding data and anecdotes to how HTML is both important and yet not well-understood, nor well-used. But the route I want to take now is to take 10 examples, from the wild, to show simple improvements to respective HTML code. That code, then, has been anonymized, for this book is not about pointing fingers, but to simply look at HTML and see what else we can do, how we can improve it, how we can: upgrade it.
+We could go on, adding data and anecdotes to how HTML is both important and yet not well-understood, nor well-used. The route I want to take now is to take 10 examples, from the wild, to show simple improvements to respective HTML code. That code, then, has been anonymized, for this book is not about pointing fingers, but to simply look at HTML and see what else we can do, how we can improve it, how we can: upgrade it.
 
-Thanks for obtaining your own copy of this little book, and now welcome to this first and light and playful edition of _Upgrade Your HTML_.
+Thanks for obtaining your own copy of this little book, and welcome to this first and light and playful edition of _Upgrade Your HTML_.
 
 —Jens Oliver Meiert (short: Jens).
 
 PS.
-And, oh, the book really is about [HTML](https://html.spec.whatwg.org/multipage/). Not SGML, not XHTML, not XML, just HTML.
+The book really is about [HTML](https://html.spec.whatwg.org/multipage/). Not SGML, not XHTML, not XML, just HTML.
 
 PPS.
-And, of course, it’s opinionated.
+It’s opinionated.
