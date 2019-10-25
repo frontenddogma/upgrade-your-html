@@ -24,6 +24,3 @@ Thanks for obtaining your own copy of this little book, and welcome to this firs
 
 PS.
 The book really is about [HTML](https://html.spec.whatwg.org/multipage/). Not SGML, not XHTML, not XML, just HTML.
-
-PPS.
-It’s opinionated.
