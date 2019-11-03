@@ -12,4 +12,3 @@ intro.md
 10.md
 outro.md
 author.md
-author-promo.md
