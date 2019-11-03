@@ -11,4 +11,4 @@ intro.md
 9.md
 10.md
 outro.md
-epilogue.md
+author.md
