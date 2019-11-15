@@ -4,12 +4,13 @@ Jens Oliver Meiert is a [web developer](https://meiert.com/en/blog/categories/de
 
 Other titles by Jens Oliver Meiert:
 
-* [_CSS Optimization Basics_](https://leanpub.com/css-optimization-basics) (2018):
+[_CSS Optimization Basics_](https://leanpub.com/css-optimization-basics) (2018):
 
-  {width: 90px, float: left}
-  [![CSS Optimization Basics](https://meiert.com/de/publications/books/css-optimization-basics/cover-s.jpg)](https://leanpub.com/css-optimization-basics)
+{width: 90px, float: left}
+[![CSS Optimization Basics](https://meiert.com/de/publications/books/css-optimization-basics/cover-s.jpg)](https://leanpub.com/css-optimization-basics)
 
-  Are you unsure about your style sheets’ quality, or whether you’ve maxed out your options? _CSS Optimization Basics_ covers the necessary mindsets, discusses the main optimization methods, and presents useful resources to write higher quality CSS.
+Are you unsure about your style sheets’ quality, or whether you’ve maxed out your options? _CSS Optimization Basics_ covers the necessary mindsets, discusses the main optimization methods, and presents useful resources to write higher quality CSS.
+
 
 * [_The Little Book of HTML/CSS Coding Guidelines_](https://learning.oreilly.com/library/view/the-little-book/9781492048459/) (2015):
 
