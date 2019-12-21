@@ -1,6 +1,6 @@
 # Upgrade Your HTML: 10 Examples to Improve Your Markup
 
-This is the source of the tiny book [_Upgrade Your HTML_](https://leanpub.com/upgrade-your-html) by [Jens Oliver Meiert](https://meiert.com/en/) (short: Jens). You can [get a copy at Amazon](https://www.amazon.com/dp/B07ZNSZX49/?tag=j9t-21-20).
+This is the source of the tiny book [_Upgrade Your HTML_](https://leanpub.com/upgrade-your-html).
 
 Official description:
 
