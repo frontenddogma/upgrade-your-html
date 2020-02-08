@@ -13,3 +13,6 @@ The aspect I like to close with, however, is a different one: There are always t
 Making constructive suggestions around actual uses of HTML has been the idea of this booklet. It’s likewise the idea for a series of such writings, similarly brief—for there are always things to improve, for there’s always HTML to, you name it: upgrade.
 
 Thank you for following along, and the best wishes to you, and your HTML.
+
+PS.
+If you like to learn from other HTML blunders without waiting for _Upgrade Your HTML II_, have a look at [Manuel Matuzović’s “HTMHell.”](https://www.htmhell.dev/) HTMHell shares the same spirit as _Upgrade Your HTML_, and Manuel does a great job explaining issues with HTML and how to avoid or fix them.
