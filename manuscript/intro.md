@@ -1,3 +1,4 @@
+{sample: true}
 # Intro
 
 HTML is the backbone of the Web. We can build a website without JavaScript, even without CSS, but without HTML—_any_ HTML—, no, we can’t.

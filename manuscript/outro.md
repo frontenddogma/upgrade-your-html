@@ -1,3 +1,4 @@
+{sample: true}
 # Outro
 
 Upgrade Your HTML—or was this all Downgrade Your HTML? You’ve read ten short chapters and have encountered as many samples of HTML that got discussed and minimized.

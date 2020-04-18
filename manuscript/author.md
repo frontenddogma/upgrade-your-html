@@ -1,3 +1,4 @@
+{sample: true}
 # About the Author
 
 Jens Oliver Meiert is a [web developer](https://meiert.com/en/blog/categories/development/) and [author](https://www.goodreads.com/author/show/13623828.Jens_Oliver_Meiert) (ex-Google, W3C, O’Reilly). He specializes in the management and quality assurance of complex websites, the development and deployment of web frameworks, as well as code efficiency and maintainability. Jens contributes to technical standards and regularly writes about his work and research, particularly on his website, [meiert.com](https://meiert.com/en/).
