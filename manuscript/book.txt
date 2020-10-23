@@ -11,4 +11,5 @@ intro.md
 9.md
 10.md
 outro.md
+feedback.md
 author.md
