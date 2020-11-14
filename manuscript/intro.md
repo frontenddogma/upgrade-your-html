@@ -17,7 +17,7 @@ Want another example? When people talk about HTML elements like `html` or `a` or
 
 Another one? In a few years, HTML will celebrate its 30th birthday. Very cool! So we will certainly have maxed out all options to [reduce HTML payload](https://meiert.com/en/blog/html-performance/), to improve performance? Well, no. One of the major options at our disposal to reduce HTML payload is not to write HTML that can be left out without a document turning invalid ([please validate](https://meiert.com/en/blog/about-validation/), by the way). Unfortunately, almost no one uses that option. Web developers have their concerns and habits, yes, but the point is that the method is so under-utilized, we cannot speak of HTML mastery here, either.
 
-We could go on, adding data and anecdotes to how HTML is both important and yet not well-understood, nor well-used. The route I want to take is to select 10 examples, from the wild, to make improvements to respective HTML code. That code, then, has been anonymized, for this booklet is not about pointing fingers, but to simply look at HTML and see what else we can do, how we can improve it, how we can: upgrade it.
+We could go on, adding data and anecdotes to how HTML is both important and yet not well-understood, nor well-used. The route I want to take is to select 10 examples, from the wild, to make improvements to the respective HTML code. That code, then, has been anonymized, for this booklet is not about pointing fingers, but to simply look at HTML and see what else we can do, how we can improve it, how we can: upgrade it.
 
 Welcome to this first and light and playful edition of _Upgrade Your HTML_.
 
