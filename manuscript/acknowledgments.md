@@ -1,1 +1,1 @@
-With special thanks to Kevin Khaw, Merci Niebres, and Gabriele Kretzschmar for reviewing this booklet.
+With special thanks to Kevin Khaw, Merci Niebres, Gabriele Kretzschmar, and Kirsty MacRae for reviewing this booklet.
