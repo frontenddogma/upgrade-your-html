@@ -5,7 +5,7 @@ HTML is the backbone of the Web. We can build a website without JavaScript, even
 
 HTML is so important, yet so easy. Everyone writes HTML, and everyone says they can write HTML. They don’t just mean they’re able to write HTML, but that they write _good_ HTML, where “good” means “high quality.”
 
-That would be great news, because writing good HTML is actually [more important](https://meiert.com/en/blog/rules-for-html/) than writing good CSS or good JavaScript. This is at least the view of [the first paradigm of web development](https://meiert.com/en/blog/two-paradigms/). This paradigm sees a benefit in separating concerns, and assumes, as the end goal, a large code base of many HTML templates and files with very few style sheets and scripts.
+That would be great news, because writing good HTML is [more important](https://meiert.com/en/blog/rules-for-html/) than writing good CSS or good JavaScript. This is at least the view of [the first paradigm of web development](https://meiert.com/en/blog/two-paradigms/). This paradigm sees a benefit in separating concerns, and assumes, as the end goal, a large code base of many HTML templates and files with very few style sheets and scripts.
 
 The problem is not that there’s also a new paradigm, in which components may include HTML and CSS and JavaScript (or ECMAScript, if we want to adjust terminology). It’s that _not_ everyone writes good HTML. That has many reasons.
 
