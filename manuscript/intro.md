@@ -5,13 +5,13 @@ HTML is the backbone of the Web. We can build a website without JavaScript, even
 
 HTML is so important, yet so easy. Everyone writes HTML, and everyone says they can write HTML. They don’t just mean they’re able to write HTML, but that they write _good_ HTML, where “good” means “high quality.”
 
-That would be great news, because writing good HTML is [more important](https://meiert.com/en/blog/rules-for-html/) than writing good CSS or good JavaScript. This is at least the view of [the first paradigm of web development](https://meiert.com/en/blog/two-paradigms/). This paradigm sees a benefit in separating concerns, and assumes, as the end goal, a large code base of many HTML templates and files with very few style sheets and scripts.
+That would be great news, because writing good HTML is [more important](https://meiert.com/en/blog/rules-for-html/) than writing good CSS or good JavaScript. This is at least the view of [the first paradigm of web development](https://meiert.com/en/blog/two-paradigms/). This paradigm sees a benefit in separating concerns, and assumes, as the end goal, a large code base of many HTML templates and files with few style sheets and scripts.
 
 The problem is not that there’s also a new paradigm, in which components may include HTML and CSS and JavaScript (or ECMAScript, if we want to adjust terminology). It’s that _not_ everyone writes good HTML. That has many reasons.
 
 The most important one is that HTML isn’t actually that easy, because it really is complex. Want an example?
 
-HTML&nbsp;5.2, which is the last HTML recommendation by the W3C (HTML is really maintained [by the WHATWG](https://spec.whatwg.org/)), contains [111 elements](https://meiert.com/en/indices/html-elements/) alone. _111._ How many do you know? How many does the average web developer know? What does it mean for their markup if they don’t know all the elements?
+HTML&nbsp;5.2, which is the last HTML recommendation by the W3C (HTML is maintained [by the WHATWG](https://spec.whatwg.org/)), contains [111 elements](https://meiert.com/en/indices/html-elements/) alone. _111._ How many do you know? How many does the average web developer know? What does it mean for their markup if they don’t know all the elements?
 
 Want another example? When people talk about HTML elements like `html` or `a` or `p`, then [most of the time they do mean _elements_](https://www.456bereastreet.com/archive/200508/html_tags_vs_elements_vs_attributes/). But what they then _talk about_ is “tags.” Google, as of September, 2019, finds 25 million occurrences of [“html tags”](https://www.google.com/search?q="html+tags") alone. HTML elements, what people mean, but don’t call by name? [2.4 million hits](https://www.google.com/search?q="html+elements"), a tenth. This begs the question how well developers understand HTML if they’re not sure about the difference between elements and tags.
 
