@@ -35,4 +35,4 @@ Available at [O’Reilly](https://www.oreilly.com/library/view/the-little-book/9
 
 Available at [Amazon](https://www.amazon.com/dp/B00GAC2SJI/?tag=j9t-21-20), [Google Play Books](https://play.google.com/store/books/details?id=gGcKEAAAQBAJ), and [Leanpub](https://leanpub.com/100-things-i-learned-as-an-everyday-adventurer).
 
-[1.2.7]
+[1.2.8]
