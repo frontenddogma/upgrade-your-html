@@ -13,3 +13,4 @@ intro.md
 outro.md
 feedback.md
 author.md
+book.md
