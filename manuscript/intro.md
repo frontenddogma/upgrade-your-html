@@ -7,7 +7,7 @@ HTML is so important, yet so easy. Everyone writes HTML, and everyone says they 
 
 That would be great news, because writing good HTML is [more important](https://meiert.com/en/blog/rules-for-html/) than writing good CSS or good JavaScript. This is at least the view of [the first paradigm of web development](https://meiert.com/en/blog/two-paradigms/). This paradigm sees a benefit in separating concerns, and assumes, as the end goal, a large code base of many HTML templates and files with few style sheets and scripts.
 
-The problem is not that there’s also a new paradigm, in which components may include HTML and CSS and JavaScript (or ECMAScript, if we want to adjust terminology). It’s that _not_ everyone writes good HTML. That has many reasons.
+The problem is not that there’s also a new paradigm, in which components may include HTML and CSS and JavaScript (or ECMAScript, if we want to adjust terminology). It’s that _not_ everyone writes good HTML. There are many reasons for that.
 
 The most important one is that HTML isn’t actually that easy, because it really is complex. Want an example?
 
