@@ -9,7 +9,7 @@ I’m biased—I specialize in using as little code as possible and I love the i
 
 As with many rules, there are exceptions, yet I don’t find it surprising that what this little book shows is that improvements often come with removing rather than adding code.
 
-The aspect I like to close with, however, is a different one: There are always things to improve. (Even if Jesus or another amazing person joined us right here, right now, [someone could and would find something objectionable about that](https://meiert.com/en/blog/destroying-is-not-arguing/).) Yet, as that statement, as the examples, as I tried to show, that’s not a negative thing, for if there’s _always_ something to improve, it doesn’t mean that what was there before was necessarily “bad.” It’s also _constructive_ to make suggestions for improvements, especially when there’s reason to believe that these do, indeed, solve what’s been pointed out as problems.
+The aspect I like to close with, however, is a different one: There are always things to improve. (Even if Jesus or another amazing person joined us right here, right now, [someone could find something objectionable about that](https://meiert.com/en/blog/destroying-is-not-arguing/).) Yet, as that statement, as the examples, as I tried to show, that’s not a negative thing, for if there’s _always_ something to improve, it doesn’t mean that what was there before was necessarily “bad.” It’s also _constructive_ to make suggestions for improvements, especially when there’s reason to believe that these do, indeed, solve what’s been pointed out as problems.
 
 Making constructive suggestions around actual uses of HTML has been the idea behind this booklet. It’s likewise the idea for a series of such writings, similarly brief—for there are always things to improve, for there’s always HTML to, you name it: upgrade.
 
@@ -19,4 +19,4 @@ PS.
 If you like to learn about even more HTML blunders, have a look at [Manuel Matuzović’s “HTMHell.”](https://www.htmhell.dev/) HTMHell shares the same spirit as _Upgrade Your HTML_, and Manuel does a great job explaining issues with HTML, and how to avoid or fix them.
 
 PPS.
-The second part of this book series is out! [_Upgrade Your HTML II_](https://leanpub.com/upgrade-your-html-2) has ten more examples to improve your markup. If you liked this book, you probably like that one, too.
+The second part of this book series is out! [_Upgrade Your HTML II_](https://meiert.com/en/blog/upgrade-your-html-2/) has ten more examples to improve your markup. If you liked this book, you probably like that one, too.
