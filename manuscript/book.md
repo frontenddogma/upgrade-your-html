@@ -15,4 +15,4 @@ Contact +1-754-400-0999 or info@frontenddogma.com for more information.
 
 Follow Frontend Dogma on Twitter: [@frontenddogma](https://twitter.com/frontenddogma)
 
-[1.4.1]
+[1.4.2]
