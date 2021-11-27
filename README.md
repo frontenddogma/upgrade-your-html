@@ -10,4 +10,4 @@ Official description:
 >
 > If you’re a web developer, you know HTML. Check out and follow _Upgrade Your HTML_ to nod (or shake your head) exploring old and new problems surrounding uses of the beloved HyperText Markup Language.
 >
-> 👉 This is the book if you enjoy the intricacies of working with HTML.
+> → This is the book if you enjoy the intricacies of working with HTML.
