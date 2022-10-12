@@ -11,7 +11,7 @@ The problem is not that there’s also a new paradigm, in which components may i
 
 The most important one is that HTML isn’t actually that easy, because it really is complex. Want an example?
 
-HTML&nbsp;5.2, which is the last HTML recommendation by the W3C (HTML is maintained [by the WHATWG](https://spec.whatwg.org/)), contains [111 elements](https://meiert.com/en/indices/html-elements/) alone. _111._ How many do you know? How many does the average web developer know? What does it mean for their markup if they don’t know all the elements?
+HTML 5.2, which is the last HTML recommendation by the W3C (HTML is maintained [by the WHATWG](https://spec.whatwg.org/)), contains [111 elements](https://meiert.com/en/indices/html-elements/) alone. _111._ How many do you know? How many does the average web developer know? What does it mean for their markup if they don’t know all the elements?
 
 Want another example? When people talk about HTML elements like `html` or `a` or `p`, then [most of the time they do mean _elements_](https://www.456bereastreet.com/archive/200508/html_tags_vs_elements_vs_attributes/). But what they then _talk about_ is “tags.” Google, as of September, 2019, finds 25 million occurrences of [“html tags”](https://www.google.com/search?q="html+tags") alone. HTML elements, what people mean, but don’t call by name? [2.4 million hits](https://www.google.com/search?q="html+elements"), a tenth. This begs the question how well developers understand HTML if they can’t tell the difference between elements and tags.
 
