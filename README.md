@@ -1,6 +1,6 @@
 # Upgrade Your HTML: 10 Examples to Improve Your Markup
 
-This is the source of the tiny book [_Upgrade Your HTML_](https://leanpub.com/upgrade-your-html).
+This is the source of the tiny book [_Upgrade Your HTML_](https://meiert.com/en/blog/upgrade-your-html/).
 
 Official description:
 
