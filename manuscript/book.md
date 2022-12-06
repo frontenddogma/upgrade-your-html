@@ -13,6 +13,6 @@ While author and publisher have used good faith efforts to ensure that the infor
 
 Contact +1-754-400-0999 or info@frontenddogma.com for more information.
 
-Follow Frontend Dogma [on Mastodon](https://mas.to/@frontenddogma) or [on Twitter](https://twitter.com/frontenddogma).
+Follow [Frontend Dogma on Mastodon](https://mas.to/@frontenddogma).
 
-[1.4.13]
+[1.4.14]
