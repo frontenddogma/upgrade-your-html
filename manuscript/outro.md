@@ -16,7 +16,4 @@ Making constructive suggestions around actual uses of HTML has been the idea beh
 Thank you for following along, and the best wishes to you, and your HTML.
 
 PS.
-If you like to learn about even more HTML blunders, have a look at [Manuel Matuzović’s “HTMHell.”](https://www.htmhell.dev/) HTMHell shares the same spirit as _Upgrade Your HTML_, and Manuel does a great job explaining issues with HTML, and how to avoid or fix them.
-
-PPS.
-The second part of this book series is out! [_Upgrade Your HTML II_](https://meiert.com/en/blog/upgrade-your-html-2/) has ten more examples to improve your markup. If you liked this book, you probably like that one, too.
+If you like to learn about other HTML blunders, have a look at [Manuel Matuzović’s “HTMHell.”](https://www.htmhell.dev/) HTMHell shares the same spirit as _Upgrade Your HTML_, and Manuel does a great job explaining issues with HTML, and how to avoid or fix them.
