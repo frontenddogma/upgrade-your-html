@@ -13,13 +13,13 @@ Available at [Apple Books](https://books.apple.com/us/book/the-web-development-g
 
 ## [_CSS Optimization Basics_](https://meiert.com/en/blog/css-optimization-basics/) (2018)
 
-> Are you unsure about your style sheets’ quality, or whether you’ve maxed out your options? _CSS Optimization Basics_ covers the necessary mindsets, discusses the main optimization methods, and presents useful resources to write higher quality CSS.
+> Are you unsure about your style sheets’ quality, or whether you’ve maxed out your options? _CSS Optimization Basics_ covers the necessary mindsets, discusses the main optimization methods, and presents useful resources to write higher-quality CSS.
 
 Available at [Amazon](https://www.amazon.com/dp/B07TVW1ZT8/?tag=meiert-20), [Apple Books](https://books.apple.com/us/book/css-optimization-basics/id1571260941?ls=1), [Kobo](https://www.kobo.com/us/en/ebook/css-optimization-basics), [Google Play Books](https://play.google.com/store/books/details/Jens_Oliver_Meiert_CSS_Optimization_Basics?id=xgTfDwAAQBAJ), and [Leanpub](https://leanpub.com/css-optimization-basics).
 
 ## [_On Web Development_](https://meiert.com/en/blog/on-web-development/) (2015)
 
-> _On Web Development_ bundles 134 articles and the last 11 years of technical writings by Jens Oliver Meiert (meiert.com). Freshly reordered and commented, the articles cover processes and maintenance, HTML and CSS, standards, as well as development and design in general; they range from coding basics and principles, to carefully scathing criticism, to tips and tricks and trivia.
+> _On Web Development_ bundles 134 articles and the last 11 years of technical writings by Jens Oliver Meiert (meiert.com). Freshly reordered and commented, the articles cover processes and maintenance, HTML and CSS, standards, as well as development and design in general; they include coding basics and principles, carefully scathing criticism, and tips and tricks and trivia.
 
 Available at [Amazon](https://www.amazon.com/dp/B010PQPT90/?tag=meiert-20).
 
