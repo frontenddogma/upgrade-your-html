@@ -1,6 +1,8 @@
 # Upgrade Your HTML: 10 Examples to Improve Your Markup
 
-This is the source of the tiny book [_Upgrade Your HTML_](https://meiert.com/en/blog/upgrade-your-html/).
+This is the source of the short book [_Upgrade Your HTML_](https://meiert.com/en/blog/upgrade-your-html/).
+
+(Note: The book is written using [Markua](https://markua.com/), which is a superset of Markdown. Some of that code, like `I>` code for info boxes, is not rendered well by GitHub.)
 
 Official description:
 
