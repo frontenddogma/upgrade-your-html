@@ -13,3 +13,22 @@ Official description:
 > If you’re a web developer, you know HTML. Check out and follow _Upgrade Your HTML_ to nod (or shake your head) exploring old and new problems surrounding uses of the beloved HyperText Markup Language.
 >
 > → This is the book if you enjoy the intricacies of working with HTML.
+
+## Table of Contents
+
+* [Intro](manuscript/intro.md)
+* [Acknowledgments](manuscript/acknowledgments.md)
+* [1. Respect the `title` Attribute](manuscript/1.md)
+* [2. Stop Escaping `&`](manuscript/2.md)
+* [3. Think Through Your Markup](manuscript/3.md)
+* [4. Don’t Double Boolean Attributes](manuscript/4.md)
+* [5. If It Can Be Done Using an HTTP Header, Use an HTTP Header](manuscript/5.md)
+* [6. Avoid `data` Images](manuscript/6.md)
+* [7. Don’t Use the Classic “Clearfix”](manuscript/7.md)
+* [8. Be Clear About Attribute Functions](manuscript/8.md)
+* [9. Question Your Frontend Code](manuscript/9.md)
+* [10. Add Meaning, Prune Meaninglessness](manuscript/10.md)
+* [Outro](manuscript/outro.md)
+* [Feedback](manuscript/feedback.md)
+* [About the Author](manuscript/author.md)
+* [About _Upgrade Your HTML_](manuscript/book.md)
