@@ -11,6 +11,12 @@ Other titles by Jens Oliver Meiert:
 
 Available at [Apple Books](https://books.apple.com/us/book/the-web-development-glossary-3k/id6453522940?ls=1), [Kobo](https://www.kobo.com/us/en/ebook/the-web-development-glossary-3k), [Google Play Books](https://play.google.com/store/books/details?id=eFHNEAAAQBAJ), and [Leanpub](https://leanpub.com/web-development-glossary-3k). (Try the glossary online at [WebGlossary.info](https://webglossary.info/).)
 
+## [_Rote Learning HTML & CSS_](https://meiert.com/blog/rote-learning-html-and-css/) (2024)
+
+> Learn HTML and CSS, the hard way.
+
+Available at [Apple Books](https://books.apple.com/us/book/rote-learning-html-css/id6633442792?ls=1), [Kobo](https://www.kobo.com/us/en/ebook/rote-learning-html-css), [Google Play Books](https://play.google.com/store/books/details?id=KYAZEQAAQBAJ), and [Leanpub](https://leanpub.com/rote-learning-html-css).
+
 ## [_The Little Book of Little Books_](https://meiert.com/blog/the-little-book-of-little-books/) (2021)
 
 > _The Little Book of Little Books_ consists of lovingly polished editions of _The Little Book of HTML/CSS Frameworks_ (originally published in 2015), _The Little Book of HTML/CSS Coding Guidelines_ (2015), and _The Little Book of Website Quality Control_ (2016).
@@ -28,9 +34,3 @@ Available at [Amazon](https://www.amazon.com/dp/B07TVW1ZT8/?tag=meiert-20), [App
 > _On Web Development_ bundles 134 articles and the last 11 years of technical writings by Jens Oliver Meiert (meiert.com). Freshly reordered and commented, the articles cover processes and maintenance, HTML and CSS, standards, as well as development and design in general; they include coding basics and principles, carefully scathing criticism, and tips and tricks and trivia.
 
 Available at [Amazon](https://www.amazon.com/dp/B010PQPT90/?tag=meiert-20).
-
-## [_The Little Book of HTML/CSS Frameworks_](https://meiert.com/blog/the-book-of-frameworks/) (2015)
-
-> With the speed of web development today, it’s little wonder that so many frameworks are available, since they come with a promise of saving development and design time. But using the wrong framework, or wrongly using the right framework, can be costly. This concise book shares higher-level ideas around web development frameworks that govern HTML and CSS code, whether you’re looking at an external option or planning to build your own.
-
-Available at [O’Reilly](https://www.oreilly.com/library/view/the-little-book/9781492048121/).
