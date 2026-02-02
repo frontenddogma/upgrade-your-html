@@ -2,6 +2,11 @@
 
 This is the source of the short book [_Upgrade Your HTML_](https://meiert.com/blog/upgrade-your-html/).
 
+<!-- Seriously, GitHub? -->
+<div align="center">
+	<a href="https://meiert.com/blog/upgrade-your-html/"><img src="https://meiert.com/de/publications/books/upgrade-your-html/cover-s.png" alt="The cover of “Upgrade Your HTML.”"></a>
+</div>
+
 (Note: The book is written using [Markua](https://markua.com/), which is a superset of Markdown. Some of that code, like `I>` code for info boxes, is not rendered well by GitHub.)
 
 Official description:
