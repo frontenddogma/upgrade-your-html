@@ -1,6 +1,6 @@
 # Upgrade Your HTML: 10 Examples to Improve Your Markup
 
-This is the source of the short book [_Upgrade Your HTML_](https://meiert.com/blog/upgrade-your-html/).
+This is the source of the book [_Upgrade Your HTML_](https://meiert.com/blog/upgrade-your-html/).
 
 <!-- Seriously, GitHub? -->
 <div align="center">
