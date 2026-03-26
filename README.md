@@ -2,7 +2,7 @@
 
 This is the source of the book [_Upgrade Your HTML_](https://meiert.com/blog/upgrade-your-html/).
 
-<!-- Seriously, GitHub? -->
+<!-- Really, GitHub? -->
 <div align="center">
 	<a href="https://meiert.com/blog/upgrade-your-html/"><img src="https://meiert.com/de/publications/books/upgrade-your-html/cover-s.png" alt="The cover of “Upgrade Your HTML.”"></a>
 </div>
